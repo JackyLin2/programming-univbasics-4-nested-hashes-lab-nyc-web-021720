@@ -101,6 +101,7 @@ def dennis_ritchies_language
   programmer_hash[:alan_kay][:known_for] = "GUI"
   programmer_hash
 
+<<<<<<< HEAD
 end
 
 def adding_to_dennis
@@ -114,4 +115,6 @@ def adding_to_dennis
   programmer_hash[:dennis_ritchie][:languages] << "Assembly"
   programmer_hash
 
+=======
+>>>>>>> 1d5cf015aa1b5a0e2929f797f78116e3a135bfd8
 end
